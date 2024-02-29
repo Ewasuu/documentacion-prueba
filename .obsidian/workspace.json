@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "0b13be86a4b92ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "395ca3279c962d7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d393f851682e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repositorios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d606678a0f2961cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "015e5f08c879d14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a530b8dfcecac0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb80ba17d033c7ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbdfdfbb90c05adf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3edebbad61f9de8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a36c34553adffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeaa6a3f2fa3c650",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repositorios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0ed56f6c74e400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repositorios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3844234bf153e7d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31dc20217fa6b426",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repositorios.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e1d393f851682e82",
+  "lastOpenFiles": [
+    "Análisis de crédito.md",
+    "imagenes/documents-tables.png",
+    "Recibo de cobro.md",
+    "Relación de cobranza.md",
+    "imagenes/payment-tables.png",
+    "Sincronizador.md",
+    "imagenes",
+    "Productos del cotizador.md",
+    "Cotizador.md",
+    "Repositorios.md",
+    "create a link.md"
+  ]
+}
